@@ -1,6 +1,10 @@
+
 {
   "app": "alankariyaz",
+  "version": 1,
   "codes": {
-    "TEST001": true
-  }
-}
+    "TEST001": {
+      "active": true,
+      "type": "lifetime"
+    }
+ 
