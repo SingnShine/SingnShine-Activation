@@ -1,11 +1,25 @@
-
 {
   "app": "varisaisadhakam",
   "version": 1,
   "codes": {
+    "DAY001": {
+      "active": true,
+      "days": 1
+    },
+
+    "WEEK001": {
+      "active": true,
+      "days": 7
+    },
+
     "TEST001": {
       "active": true,
-      "type": "lifetime"
+      "days": 30
+    },
+
+    "TEACH001": {
+      "active": true,
+      "days": 365
     }
   }
 }
